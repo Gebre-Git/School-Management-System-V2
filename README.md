@@ -20,4 +20,4 @@ This is the second version of the School Management System developed in C#. Unli
 - Efficient memory usage, especially for storing and handling CSV files.
 - User-friendly interface with clear prompts and error handling.
 ### License:
-- Click this: https://github.com/Gebre-Git/School-Management-System-Version-2/LICENSE
+- Click this: [https://github.com/Gebre-Git/School-Management-System-Version-2/LICENSE](https://github.com/Gebre-Git/School-Management-System-Version-2/blob/main/LICENSE)
