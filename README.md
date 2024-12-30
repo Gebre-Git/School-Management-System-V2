@@ -19,11 +19,22 @@ This is the second version of the School Management System developed in C#. Unli
 - Improved performance for large datasets.
 - Efficient memory usage, especially for storing and handling CSV files.
 - User-friendly interface with clear prompts and error handling.
+  
 ### License:
-- Click this: [https://github.com/Gebre-Git/School-Management-System-Version-2/LICENSE](https://github.com/Gebre-Git/School-Management-System-Version-2/blob/main/LICENSE)
+
+- Click this: [MIT LICENSE](https://github.com/Gebre-Git/School-Management-System-Version-2/blob/main/LICENSE)
+
 ### Main Code:
-- Click this: [https://github.com/Gebre-Git/School-Management-System-Version-2/Admin](https://github.com/Gebre-Git/School-Management-System-Version-2/blob/main/Admin.cs)
+
+- Check Main Code: [Admin.cs](https://github.com/Gebre-Git/School-Management-System-Version-2/blob/main/Admin.cs)
+
+### Acknowledgments
+
+- Developed by **Gebremariam Birhanu**.
+- Inspired by the need to digitize manual record-keeping processes in schools.
+  
 ### System Version:
-- Version 1 (Python tkinter) : [https://github.com/Gebre-Git/School-Management-System-V1](https://github.com/Gebre-Git/School-Management-System-V1)
-- Version 2 (Csharp Console) : [https://github.com/Gebre-Git/School-Management-System-V2](https://github.com/Gebre-Git/School-Management-System-V2)
-- Version 3 (Advanced version of windowforms) : [https://github.com/Gebre-Git/School-Management-System-V3](https://github.com/Gebre-Git/School-Management-System-V3)
+
+- Version 1 (Python tkinter) : [School-Management-System-V1](https://github.com/Gebre-Git/School-Management-System-V1)
+- Version 2 (Csharp Console) : [School-Management-System-V2](https://github.com/Gebre-Git/School-Management-System-V2)
+- Version 3 (Advanced version of windowforms) : [School-Management-System-V3](https://github.com/Gebre-Git/School-Management-System-V3)
