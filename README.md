@@ -21,3 +21,7 @@ This is the second version of the School Management System developed in C#. Unli
 - User-friendly interface with clear prompts and error handling.
 ### License:
 - Click this: [https://github.com/Gebre-Git/School-Management-System-Version-2/LICENSE](https://github.com/Gebre-Git/School-Management-System-Version-2/blob/main/LICENSE)
+### Main Code:
+- Click this: [https://github.com/Gebre-Git/School-Management-System-Version-2/Admin](https://github.com/Gebre-Git/School-Management-System-Version-2/blob/main/Admin.cs)
+### System Version:
+- Version 1 (Python tkinter) : 
